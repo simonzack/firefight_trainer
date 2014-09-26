@@ -11,7 +11,7 @@
         <CheatEntry>
           <ID>10</ID>
           <Description>"health"</Description>
-          <LastState Value="146" Activated="0" RealAddress="03451FA8"/>
+          <LastState Value="119" Activated="0" RealAddress="03451FA8"/>
           <Color>80000008</Color>
           <VariableType>4 Bytes</VariableType>
           <Address>"FIREFGHT_p.EXE"+00103B3C</Address>
@@ -47,7 +47,7 @@
         <CheatEntry>
           <ID>5</ID>
           <Description>"ammo.plasma_gun"</Description>
-          <LastState Value="162" Activated="0" RealAddress="03451FB4"/>
+          <LastState Value="161" Activated="0" RealAddress="03451FB4"/>
           <Color>80000008</Color>
           <VariableType>4 Bytes</VariableType>
           <Address>"FIREFGHT_p.EXE"+00103B3C</Address>
@@ -165,6 +165,38 @@
           </Offsets>
         </CheatEntry>
       </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>28</ID>
+      <Description>"infinite health"</Description>
+      <LastState Activated="0"/>
+      <Color>80000008</Color>
+      <VariableType>Auto Assembler Script</VariableType>
+      <AssemblerScript>[ENABLE]
+//code from here to '[DISABLE]' will be used to enable the cheat
+alloc(newmem,2048)
+label(returnhere)
+
+newmem:
+test edx,edx
+jmp returnhere
+
+"FIREFGHT_p.EXE"+314F7:
+jmp newmem
+nop
+returnhere:
+
+
+ 
+ 
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+dealloc(newmem)
+"FIREFGHT_p.EXE"+314F7:
+sub edx,[esp+0C]
+test edx,edx
+//Alt: db 2B 54 24 0C 85 D2
+</AssemblerScript>
     </CheatEntry>
     <CheatEntry>
       <ID>19</ID>
