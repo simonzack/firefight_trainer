@@ -11,7 +11,7 @@
         <CheatEntry>
           <ID>10</ID>
           <Description>"health"</Description>
-          <LastState Value="245" Activated="0" RealAddress="034677A8"/>
+          <LastState Value="200" Activated="0" RealAddress="034677A8"/>
           <Color>80000008</Color>
           <VariableType>4 Bytes</VariableType>
           <Address>"FIREFGHT_p.EXE"+00103B3C</Address>
@@ -23,7 +23,7 @@
         <CheatEntry>
           <ID>9</ID>
           <Description>"ammo.vulcan"</Description>
-          <LastState Value="78" Activated="0" RealAddress="034677AC"/>
+          <LastState Value="300" Activated="0" RealAddress="034677AC"/>
           <Color>80000008</Color>
           <VariableType>4 Bytes</VariableType>
           <Address>"FIREFGHT_p.EXE"+00103B3C</Address>
@@ -155,7 +155,7 @@
         <CheatEntry>
           <ID>29</ID>
           <Description>"inventory.mine"</Description>
-          <LastState Value="1" Activated="0" RealAddress="034677D8"/>
+          <LastState Value="0" Activated="0" RealAddress="034677D8"/>
           <Color>80000008</Color>
           <VariableType>4 Bytes</VariableType>
           <Address>"FIREFGHT_p.EXE"+00103B3C</Address>
@@ -191,7 +191,7 @@
         <CheatEntry>
           <ID>36</ID>
           <Description>"max_health"</Description>
-          <LastState Value="300" Activated="0" RealAddress="034677E4"/>
+          <LastState Value="200" Activated="0" RealAddress="034677E4"/>
           <Color>80000008</Color>
           <VariableType>4 Bytes</VariableType>
           <Address>"FIREFGHT_p.EXE"+00103B3C</Address>
@@ -202,6 +202,18 @@
         </CheatEntry>
         <CheatEntry>
           <ID>12</ID>
+          <Description>"max_ammo.vulcan"</Description>
+          <LastState Value="300" Activated="0" RealAddress="034677E8"/>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"FIREFGHT_p.EXE"+00103B3C</Address>
+          <Offsets>
+            <Offset>44</Offset>
+            <Offset>BC</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>42</ID>
           <Description>"max_ammo.swarmers"</Description>
           <LastState Value="150" Activated="0" RealAddress="034677EC"/>
           <Color>80000008</Color>
