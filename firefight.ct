@@ -11,7 +11,7 @@
         <CheatEntry>
           <ID>10</ID>
           <Description>"health"</Description>
-          <LastState Value="200" Activated="0" RealAddress="037737A8"/>
+          <LastState Value="200" Activated="0" RealAddress="03A237A8"/>
           <Color>80000008</Color>
           <VariableType>4 Bytes</VariableType>
           <Address>"FIREFGHT_p.EXE"+00103B3C</Address>
@@ -23,7 +23,7 @@
         <CheatEntry>
           <ID>9</ID>
           <Description>"ammo.vulcan"</Description>
-          <LastState Value="300" Activated="0" RealAddress="037737AC"/>
+          <LastState Value="300" Activated="0" RealAddress="03A237AC"/>
           <Color>80000008</Color>
           <VariableType>4 Bytes</VariableType>
           <Address>"FIREFGHT_p.EXE"+00103B3C</Address>
@@ -35,7 +35,7 @@
         <CheatEntry>
           <ID>6</ID>
           <Description>"ammo.swarmers"</Description>
-          <LastState Value="150" Activated="0" RealAddress="037737B0"/>
+          <LastState Value="150" Activated="0" RealAddress="03A237B0"/>
           <Color>80000008</Color>
           <VariableType>4 Bytes</VariableType>
           <Address>"FIREFGHT_p.EXE"+00103B3C</Address>
@@ -47,7 +47,7 @@
         <CheatEntry>
           <ID>5</ID>
           <Description>"ammo.plasma_gun"</Description>
-          <LastState Value="200" Activated="0" RealAddress="037737B4"/>
+          <LastState Value="200" Activated="0" RealAddress="03A237B4"/>
           <Color>80000008</Color>
           <VariableType>4 Bytes</VariableType>
           <Address>"FIREFGHT_p.EXE"+00103B3C</Address>
@@ -59,7 +59,7 @@
         <CheatEntry>
           <ID>4</ID>
           <Description>"ammo.missles"</Description>
-          <LastState Value="40" Activated="0" RealAddress="037737B8"/>
+          <LastState Value="40" Activated="0" RealAddress="03A237B8"/>
           <Color>80000008</Color>
           <VariableType>4 Bytes</VariableType>
           <Address>"FIREFGHT_p.EXE"+00103B3C</Address>
@@ -71,7 +71,7 @@
         <CheatEntry>
           <ID>3</ID>
           <Description>"ammo.cannon"</Description>
-          <LastState Value="30" Activated="0" RealAddress="037737BC"/>
+          <LastState Value="30" Activated="0" RealAddress="03A237BC"/>
           <Color>80000008</Color>
           <VariableType>4 Bytes</VariableType>
           <Address>"FIREFGHT_p.EXE"+00103B3C</Address>
@@ -83,7 +83,7 @@
         <CheatEntry>
           <ID>2</ID>
           <Description>"ammo.grenades"</Description>
-          <LastState Value="50" Activated="0" RealAddress="037737C0"/>
+          <LastState Value="50" Activated="0" RealAddress="03A237C0"/>
           <Color>80000008</Color>
           <VariableType>4 Bytes</VariableType>
           <Address>"FIREFGHT_p.EXE"+00103B3C</Address>
@@ -95,7 +95,7 @@
         <CheatEntry>
           <ID>41</ID>
           <Description>"ammo.selected"</Description>
-          <LastState Value="0" Activated="0" RealAddress="037737C4"/>
+          <LastState Value="0" Activated="0" RealAddress="03A237C4"/>
           <Color>80000008</Color>
           <VariableType>4 Bytes</VariableType>
           <Address>"FIREFGHT_p.EXE"+00103B3C</Address>
@@ -107,7 +107,7 @@
         <CheatEntry>
           <ID>40</ID>
           <Description>"?"</Description>
-          <LastState Value="0" Activated="0" RealAddress="037737C8"/>
+          <LastState Value="0" Activated="0" RealAddress="03A237C8"/>
           <Color>80000008</Color>
           <VariableType>4 Bytes</VariableType>
           <Address>"FIREFGHT_p.EXE"+00103B3C</Address>
@@ -119,7 +119,7 @@
         <CheatEntry>
           <ID>39</ID>
           <Description>"inventory.shield_restore"</Description>
-          <LastState Value="1" Activated="0" RealAddress="037737CC"/>
+          <LastState Value="1" Activated="0" RealAddress="03A237CC"/>
           <Color>80000008</Color>
           <VariableType>4 Bytes</VariableType>
           <Address>"FIREFGHT_p.EXE"+00103B3C</Address>
@@ -131,7 +131,7 @@
         <CheatEntry>
           <ID>38</ID>
           <Description>"inventory.cloaking_device"</Description>
-          <LastState Value="1" Activated="0" RealAddress="037737D0"/>
+          <LastState Value="0" Activated="0" RealAddress="03A237D0"/>
           <Color>80000008</Color>
           <VariableType>4 Bytes</VariableType>
           <Address>"FIREFGHT_p.EXE"+00103B3C</Address>
@@ -143,7 +143,7 @@
         <CheatEntry>
           <ID>37</ID>
           <Description>"inventory.doubled_shield"</Description>
-          <LastState Value="1" Activated="0" RealAddress="037737D4"/>
+          <LastState Value="1" Activated="0" RealAddress="03A237D4"/>
           <Color>80000008</Color>
           <VariableType>4 Bytes</VariableType>
           <Address>"FIREFGHT_p.EXE"+00103B3C</Address>
@@ -155,7 +155,7 @@
         <CheatEntry>
           <ID>29</ID>
           <Description>"inventory.mine"</Description>
-          <LastState Value="0" Activated="0" RealAddress="037737D8"/>
+          <LastState Value="0" Activated="0" RealAddress="03A237D8"/>
           <Color>80000008</Color>
           <VariableType>4 Bytes</VariableType>
           <Address>"FIREFGHT_p.EXE"+00103B3C</Address>
@@ -167,7 +167,7 @@
         <CheatEntry>
           <ID>30</ID>
           <Description>"inventory.em_shock"</Description>
-          <LastState Value="5" Activated="0" RealAddress="037737DC"/>
+          <LastState Value="5" Activated="0" RealAddress="03A237DC"/>
           <Color>80000008</Color>
           <VariableType>4 Bytes</VariableType>
           <Address>"FIREFGHT_p.EXE"+00103B3C</Address>
@@ -179,7 +179,7 @@
         <CheatEntry>
           <ID>31</ID>
           <Description>"inventory.selected"</Description>
-          <LastState Value="1" Activated="0" RealAddress="037737E0"/>
+          <LastState Value="3" Activated="0" RealAddress="03A237E0"/>
           <Color>80000008</Color>
           <VariableType>4 Bytes</VariableType>
           <Address>"FIREFGHT_p.EXE"+00103B3C</Address>
@@ -191,7 +191,7 @@
         <CheatEntry>
           <ID>36</ID>
           <Description>"max_health"</Description>
-          <LastState Value="200" Activated="0" RealAddress="037737E4"/>
+          <LastState Value="200" Activated="0" RealAddress="03A237E4"/>
           <Color>80000008</Color>
           <VariableType>4 Bytes</VariableType>
           <Address>"FIREFGHT_p.EXE"+00103B3C</Address>
@@ -203,7 +203,7 @@
         <CheatEntry>
           <ID>12</ID>
           <Description>"max_ammo.vulcan"</Description>
-          <LastState Value="300" Activated="0" RealAddress="037737E8"/>
+          <LastState Value="300" Activated="0" RealAddress="03A237E8"/>
           <Color>80000008</Color>
           <VariableType>4 Bytes</VariableType>
           <Address>"FIREFGHT_p.EXE"+00103B3C</Address>
@@ -215,7 +215,7 @@
         <CheatEntry>
           <ID>42</ID>
           <Description>"max_ammo.swarmers"</Description>
-          <LastState Value="150" Activated="0" RealAddress="037737EC"/>
+          <LastState Value="150" Activated="0" RealAddress="03A237EC"/>
           <Color>80000008</Color>
           <VariableType>4 Bytes</VariableType>
           <Address>"FIREFGHT_p.EXE"+00103B3C</Address>
@@ -227,7 +227,7 @@
         <CheatEntry>
           <ID>17</ID>
           <Description>"max_ammo.plasma_gun"</Description>
-          <LastState Value="200" Activated="0" RealAddress="037737F0"/>
+          <LastState Value="200" Activated="0" RealAddress="03A237F0"/>
           <Color>80000008</Color>
           <VariableType>4 Bytes</VariableType>
           <Address>"FIREFGHT_p.EXE"+00103B3C</Address>
@@ -239,7 +239,7 @@
         <CheatEntry>
           <ID>16</ID>
           <Description>"max_ammo.missles"</Description>
-          <LastState Value="40" Activated="0" RealAddress="037737F4"/>
+          <LastState Value="40" Activated="0" RealAddress="03A237F4"/>
           <Color>80000008</Color>
           <VariableType>4 Bytes</VariableType>
           <Address>"FIREFGHT_p.EXE"+00103B3C</Address>
@@ -251,7 +251,7 @@
         <CheatEntry>
           <ID>15</ID>
           <Description>"max_ammo.cannon"</Description>
-          <LastState Value="30" Activated="0" RealAddress="037737F8"/>
+          <LastState Value="30" Activated="0" RealAddress="03A237F8"/>
           <Color>80000008</Color>
           <VariableType>4 Bytes</VariableType>
           <Address>"FIREFGHT_p.EXE"+00103B3C</Address>
@@ -263,7 +263,7 @@
         <CheatEntry>
           <ID>14</ID>
           <Description>"max_ammo.grenades"</Description>
-          <LastState Value="50" Activated="0" RealAddress="037737FC"/>
+          <LastState Value="50" Activated="0" RealAddress="03A237FC"/>
           <Color>80000008</Color>
           <VariableType>4 Bytes</VariableType>
           <Address>"FIREFGHT_p.EXE"+00103B3C</Address>
@@ -276,8 +276,19 @@
     </CheatEntry>
     <CheatEntry>
       <ID>43</ID>
-      <Description>"cloak timer"</Description>
-      <LastState Value="0" Activated="0" RealAddress="03773CBC"/>
+      <Description>"cloaking device timer"</Description>
+      <LastState Value="27864" Activated="0" RealAddress="03A23CB8"/>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"FIREFGHT_p.EXE"+0011117C</Address>
+      <Offsets>
+        <Offset>114</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>44</ID>
+      <Description>"doubled shield timer"</Description>
+      <LastState Value="0" Activated="0" RealAddress="03A23CBC"/>
       <Color>80000008</Color>
       <VariableType>4 Bytes</VariableType>
       <Address>"FIREFGHT_p.EXE"+0011117C</Address>
